@@ -11,24 +11,8 @@ their keys:
 ```bash
 post!100 = post!100 body
 post!101 = post!101 body
-post!102 .
-post!103 .
-post!104 .
-post!105
-post!106
-post!107
-post!108
-post!109
-post!110
-post!111
-post!112
-post!113
-post!114
-post!115
-post!116
-post!117
-post!118
-post!119
+post!102 = post!102 body
+...
 ```
 
 You can paginate in a streaming manner like this:
