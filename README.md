@@ -3,6 +3,8 @@
 
 Streaming pagination for leveldb.
 
+[![build status](https://secure.travis-ci.org/juliangruber/level-paginate.png)](http://travis-ci.org/juliangruber/level-paginate)
+
 ## Usage
 
 With posts in your db like this, with monotonically ascending ids/timestamps in
