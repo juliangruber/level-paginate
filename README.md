@@ -1,7 +1,7 @@
 
 # level-paginate
 
-Pagination for leveldb.
+Streaming pagination for leveldb.
 
 ## Usage
 
