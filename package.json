@@ -1,0 +1,39 @@
+{
+  "name": "level-paginate",
+  "description": "Streaming pagination for leveldb.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/level-paginate.git"
+  },
+  "homepage": "https://github.com/juliangruber/level-paginate",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "dependencies": {
+    "level-fix-range": "~1.1.2",
+    "offset-stream": "0.0.0",
+    "ordered-through": "0.0.2"
+  },
+  "devDependencies": {
+    "tap": "~0.4.3",
+    "rimraf": "~2.2.0",
+    "level": "~0.10.0"
+  },
+  "keywords": [
+    "leveldb",
+    "paginate",
+    "pagination",
+    "streaming",
+    "blog",
+    "levelup",
+    "level"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
